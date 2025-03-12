@@ -1,7 +1,11 @@
 
 body{
     margin: 0%;
-}
+        background-image: url(/image/background.png);
+        background-repeat: no-repeat;
+        background-position-y: 80mm;
+        background-position-x: 120mm;
+    }
 
 .navbar ul{
     list-style-type: none;
